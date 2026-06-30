@@ -24,7 +24,7 @@
 
       <h1 class="font-display font-bold text-center mb-4 leading-none tracking-tight">
         <span class="block text-6xl md:text-8xl text-ink">Cursor</span>
-        <span class="block text-6xl md:text-8xl gradient-text">Studio</span>
+        <span class="block text-6xl md:text-8xl gradient-text">Play</span>
       </h1>
 
       <p

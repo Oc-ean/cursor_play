@@ -18,7 +18,7 @@
         <Mouse class="w-4 h-4" />
       </div>
       <span class="font-display font-semibold text-sm text-ink tracking-tight">
-        Cursor<span class="text-accent">Studio</span>
+        Cursor<span class="text-accent">Play</span>
       </span>
     </RouterLink>
 

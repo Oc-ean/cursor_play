@@ -34,7 +34,7 @@
             </div>
           </div>
 
-          <div class="grid grid-cols-3 gap-3">
+          <div class="hidden md:grid grid-cols-3 gap-3">
             <div
               v-for="tip in tips"
               :key="tip.label"
