@@ -111,14 +111,12 @@
 
 <script setup>
 import { ref, onMounted, onUnmounted } from "vue";
-import { useRouter } from "vue-router";
 import { ArrowRight } from "@lucide/vue";
 import { EFFECTS, useCursorStore } from "../stores/cursor";
 import { useParticleEngine } from "../composables/useParticleEngine";
 import { computed } from "vue";
 
 const store = useCursorStore();
-const router = useRouter();
 const bgCanvas = ref(null);
 const effectsSection = ref(null);
 const vp = ref({ w: window.innerWidth, h: window.innerHeight });
