@@ -28,8 +28,8 @@ An interactive cursor trail playground — ten canvas-rendered particle effects 
 
 ```bash
 # clone the repo
-git clone https://github.com/your-username/cursorplay.git
-cd cursorplay
+git clone https://github.com/your-username/cursor_play.git
+cd cursor_play
 
 # install dependencies
 npm install
